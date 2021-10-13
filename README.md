@@ -34,8 +34,8 @@ The task is as follows:\
 Use the CatAPI to fetch 50 images and display
 them in a grid on the page.\
 Please use the following resources for this task:\
-● CatAPI: https://thecatapi.com/\
-● This empty boilerplate project\
+● CatAPI: https://thecatapi.com/ \
+● This empty boilerplate project \
 The image on the right is just an example; your solution doesn’t need to look exactly alike.\
 If you have any questions, please don’t hesitate to ask.\
 Good luck!
