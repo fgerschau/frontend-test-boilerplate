@@ -1,0 +1,10 @@
+export enum STATUS {
+  SUCCESS = 'SUCCESS',
+  FAILURE = 'FAILURE',
+  LOADING = 'LOADING',
+  UNAUTHORIZED = 'UNAUTHORIZED',
+}
+
+export const REQUEST_ACTIONS = {
+  GET_CATS: 'GET_CATS',
+};
