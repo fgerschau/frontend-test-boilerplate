@@ -1,12 +1,12 @@
 # Getting Started with Create React App
 
-Fitogram’s Frontend Test 2021
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -14,28 +14,33 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `npm test`
+### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `yarn build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `yarn eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
 ## Learn More
 
-At this stage of the interview process, we would like to get a taste of your programming skills in
-action.\
-The task is very straightforward and shouldn’t
-take more than half an hour.\
-If you don’t finish everything in time, don’t worry;
-we understand that programming in stressful
-situations is hard, and we don’t like to work
-under pressure either; we just want to see how
-you work.\
-The task is as follows:\
-Use the CatAPI to fetch 50 images and display
-them in a grid on the page.\
-Please use the following resources for this task:\
-● CatAPI: https://thecatapi.com/ \
-● This empty boilerplate project \
-The image on the right is just an example; your solution doesn’t need to look exactly alike.\
-If you have any questions, please don’t hesitate to ask.\
-Good luck!
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
